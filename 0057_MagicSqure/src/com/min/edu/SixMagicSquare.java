@@ -90,11 +90,6 @@ public class SixMagicSquare extends MagicImpl {
 			}
 		}
 	}
-	@Override
-	public void print() {
-		// TODO Auto-generated method stub
-		
-	}
 
 }
 
